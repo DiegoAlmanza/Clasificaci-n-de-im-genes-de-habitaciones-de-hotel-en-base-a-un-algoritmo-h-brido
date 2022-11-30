@@ -1,4 +1,4 @@
-# Clasificacin-de-imagenes-de-habitaciones-de-hotel-en-base-a-un-algoritmo-hibrido
+# Clasificacion de-imagenes de habitaciones de hotel en base a un algoritmo hibrido
 
 # Resumen
 La trata de personas es un problema que radica en todo el mundo, en algunos casos los traficantes suelen tener aprisionadas a sus víctimas en habitaciones de hotel y publicar fotos de ellas en el mercado negro. Estas fotos suelen llegar como evidencia en las investigaciones, por lo que, una de las principales tareas de las autoridades es ubicar el hotel donde fue tomada la fotografía de la víctima.
